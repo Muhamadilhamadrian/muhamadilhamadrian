@@ -1,6 +1,6 @@
 ### Hi there, I'm Ilham 👋
 
-<a href="https://instagram.com/4driaannn">
+<a href="https://instagram.com/4driaannn" target="_blank">
   <img align="left" alt="4driaannn | Instagram" width="25px" src="https://raw.githubusercontent.com/Muhamadilhamadrian/muhamadilhamadrian/f7a8f55e4d3dc098c0d8be35cc2b027f0f5ca334/assets/instagram.svg" />
 </a>
 <a href="https://youtube.com/muhamadilham">
