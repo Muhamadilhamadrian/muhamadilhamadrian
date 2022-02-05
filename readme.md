@@ -1,15 +1,16 @@
 ### Hi there, I'm Ilham 👋
 
 <a href="https://instagram.com/4driaannn" target="_blank">
-  <img align="left" alt="4driaannn | Instagram" width="25px" src="https://raw.githubusercontent.com/Muhamadilhamadrian/muhamadilhamadrian/f7a8f55e4d3dc098c0d8be35cc2b027f0f5ca334/assets/instagram.svg" />
+  <img align="left" alt="4driaannn | Instagram" width="60px" src="https://raw.githubusercontent.com/Muhamadilhamadrian/muhamadilhamadrian/f7a8f55e4d3dc098c0d8be35cc2b027f0f5ca334/assets/instagram.svg" />
 </a>
 <a href="https://youtube.com/muhamadilham">
-  <img align="left" alt="Muhamad Ilham | Instagram" width="25px" src="https://raw.githubusercontent.com/Muhamadilhamadrian/muhamadilhamadrian/f7a8f55e4d3dc098c0d8be35cc2b027f0f5ca334/assets/youtube.svg" />
+  <img align="left" alt="Muhamad Ilham | Instagram" width="60px" src="https://raw.githubusercontent.com/Muhamadilhamadrian/muhamadilhamadrian/f7a8f55e4d3dc098c0d8be35cc2b027f0f5ca334/assets/youtube.svg" />
 </a>
 <a href="https://facebook.com/muhamadilhamadrian">
-  <img align="left" alt="Muhamad Ilham Adrian | Instagram" width="25px" src="https://raw.githubusercontent.com/Muhamadilhamadrian/muhamadilhamadrian/f7a8f55e4d3dc098c0d8be35cc2b027f0f5ca334/assets/facebook.svg" />
+  <img align="left" alt="Muhamad Ilham Adrian | Instagram" width="60px" src="https://raw.githubusercontent.com/Muhamadilhamadrian/muhamadilhamadrian/f7a8f55e4d3dc098c0d8be35cc2b027f0f5ca334/assets/facebook.svg" />
 </a>
 
+<br />
 <br />
 <br />
 
