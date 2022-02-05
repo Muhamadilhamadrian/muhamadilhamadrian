@@ -30,6 +30,6 @@ Hi, I'm Muhamad Ilham, a passionate self-taught BackEnd and Android developer fr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-![Anurag's GitHub stats](3api?username=muhamadilhamadrian&show_icons=true&theme=tokyonight)
+![Ilham's GitHub stats](3api?username=muhamadilhamadrian&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadilhamadrian&theme=tokyonight&hide_border=false&layout=compact)
+![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadilhamadrian&theme=tokyonight&hide_border=false&layout=compact)
