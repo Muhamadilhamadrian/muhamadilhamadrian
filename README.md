@@ -1,6 +1,6 @@
 ### Hi there, I'm Danang 👋
 
-<a href="https://instagram.com/dngda">
+<a href="https://instagram.com/muhamadilham7">
   <img align="left" alt="Danang Dwiyoga | Instagram" width="25px" src="https://github.com/dngda/dngda/raw/main/assets/instagram.svg" />
 </a>
 
@@ -11,7 +11,7 @@ Hi, I'm Danang Dwiyoga A, a passionate self-taught BackEnd and Android developer
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning Javascript and Kotlin
-- 💬 Ask me about anything [here](https://github.com/dngda/dngda/issues)
+- 💬 Ask me about anything [here](https://github.com/muhamadilhamadrian/muhamadilhamadrian/issues)
 
 **Languages and Tools:**  
 
